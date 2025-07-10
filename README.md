@@ -40,8 +40,8 @@
 ### 📈 GitHub 統計
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=你的帳號&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的帳號&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=willy3849&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=willy3849&layout=compact&theme=tokyonight" />
 </p>
 
 ---
