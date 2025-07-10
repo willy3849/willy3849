@@ -1,5 +1,5 @@
 <h1 align="center">嗨，我是 Willy 👋</h1>
-<p align="center">一名學生 🧑‍💻 | 熱愛寫程式的 Discord Bot 開發者</p>
+<p align="center">一名學生 🧑‍💻 | 熱愛寫程式的開發者</p>
 
 ---
 
@@ -25,7 +25,7 @@
 
 ### 🚀 我的項目
 
-🔹 [NewLand Discord Bot](https://github.com/你的帳號/NewLand)  
+🔹 [NewLand Discord Bot]([https://github.com/你的帳號/NewLand](https://discord.com/api/oauth2/authorize?client_id=1067087376800813178&permissions=8&scope=bot))  
 一款為社群量身打造的多功能 Discord Bot！
 
 ---
